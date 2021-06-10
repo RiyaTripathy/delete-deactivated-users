@@ -1,3 +1,3 @@
 [General]
 url=https://dev-121295.oktapreview.com
-token=00K1dKTrTZXBzJrRAujgT6M7rgy0v3y9G1KzvGBvZZ
+token=<api token>
